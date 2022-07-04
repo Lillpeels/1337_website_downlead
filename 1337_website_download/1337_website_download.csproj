@@ -6,4 +6,8 @@
     <RootNamespace>_1337_website_download</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.43" />
+  </ItemGroup>
+
 </Project>
